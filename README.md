@@ -1,4 +1,4 @@
-Magic Square Matrix Program
+<h2>Magic Square Matrix Program</h2>
 
 
 Application used for validation input user for valid magic square matrix or not, magic square matrix is matrix that every row, column
